@@ -2,7 +2,7 @@
   {
     "name": "拷贝漫画",
     "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/copy_manga.js",
-    "version": "1.4.1"
+    "version": "1.4.2"
   },
   {
     "name": "拷贝漫画(多账号)",
@@ -49,8 +49,8 @@
   {
     "name": "MangaDex",
     "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/manga_dex.js",
-    "version": "1.1.0",
-    "description": "Account feature is not supported yet."
+    "version": "1.2.0",
+    "description": "Forum login and comments are supported."
   },
   {
     "name": "爱看漫",
@@ -105,7 +105,7 @@
   {
     "name": "カドコミ",
     "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/comic_walker.js",
-    "version": "1.0.0"
+    "version": "1.0.1"
   },
   {
     "name": "漫画1234",
