@@ -1,169 +1,202 @@
 [
   {
+    "key": "copy_manga",
     "name": "拷贝漫画",
     "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/copy_manga.js",
     "version": "1.4.3"
   },
   {
+    "key": "copy_manga_multi_accounts",
     "name": "拷贝漫画(多账号)",
     "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/copy_manga_multi_accounts.js",
     "version": "1.4.1"
   },
   {
+    "key": "Komiic",
     "name": "Komiic",
     "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/komiic.js",
     "version": "1.0.3"
   },
   {
+    "key": "baozi",
     "name": "包子漫画",
     "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/baozi.js",
     "version": "1.1.6"
   },
   {
+    "key": "picacg",
     "name": "Picacg",
     "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/picacg.js",
     "version": "1.0.6"
   },
   {
+    "key": "nhentai",
     "name": "nhentai",
     "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/nhentai.js",
     "version": "1.1.0"
   },
   {
+    "key": "wnacg",
     "name": "紳士漫畫",
     "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/wnacg.js",
     "version": "1.0.6",
     "description": "紳士漫畫漫畫源, 不能使用時請嘗試更換URL"
   },
   {
+    "key": "ehentai",
     "name": "ehentai",
     "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/ehentai.js",
     "version": "1.1.8"
   },
   {
+    "key": "jm",
     "name": "禁漫天堂",
     "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/jm.js",
     "version": "1.4.0",
     "description": "禁漫天堂漫畫源, 不能使用時請嘗試切換分流"
   },
   {
+    "key": "manga_dex",
     "name": "MangaDex",
     "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/manga_dex.js",
     "version": "1.2.0",
     "description": "Forum login and comments are supported."
   },
   {
+    "key": "ikmmh",
     "name": "爱看漫",
     "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/ikmmh.js",
     "version": "1.0.6"
   },
   {
+    "key": "shonen_jump_plus",
     "name": "少年ジャンプ＋",
     "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/shonen_jump_plus.js",
     "version": "1.1.1"
   },
   {
+    "key": "hitomi",
     "name": "hitomi.la",
     "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/hitomi.js",
     "version": "1.1.2"
   },
   {
+    "key": "comick",
     "name": "comick",
     "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/comick.js",
     "version": "1.2.0"
   },
   {
+    "key": "ykmh",
     "name": "优酷漫画",
     "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/ykmh.js",
     "version": "1.0.0"
   },
   {
+    "key": "zaimanhua",
     "name": "再漫画",
     "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/zaimanhua.js",
     "version": "1.0.2"
   },
   {
+    "key": "ManHuaGui",
     "name": "漫画柜",
     "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/manhuagui.js",
     "version": "1.2.1"
   },
   {
+    "key": "manwaba",
     "name": "漫蛙吧",
     "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/manwaba.js",
     "version": "1.0.2"
   },
   {
+    "key": "lanraragi",
     "name": "Lanraragi",
     "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/lanraragi.js",
     "version": "1.1.0"
   },
   {
+    "key": "komga",
     "name": "Komga",
     "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/komga.js",
     "version": "1.0.0"
   },
   {
+    "key": "comic_walker",
     "name": "カドコミ",
     "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/comic_walker.js",
     "version": "1.0.1"
   },
   {
+    "key": "mh1234",
     "name": "漫画1234",
     "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/mh1234.js",
     "version": "1.0.0"
   },
   {
+    "key": "ccc",
     "name": "CCC追漫台",
     "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/ccc.js",
     "version": "1.0.1"
   },
   {
+    "key": "goda",
     "name": "GoDa漫画",
     "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/goda.js",
     "version": "1.2.1"
   },
   {
+    "key": "mh18",
     "name": "18漫画",
     "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/mh18.js",
     "version": "1.0.0"
   },
   {
+    "key": "mxs",
     "name": "漫小肆",
     "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/mxs.js",
     "version": "1.0.0"
   },
   {
+    "key": "manhuaren",
     "name": "漫画人",
     "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/manhuaren.js",
     "version": "1.0.0"
   },
   {
+    "key": "hcomic",
     "name": "H-Comic",
     "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/hcomic.js",
     "version": "1.0.0"
   },
   {
+    "key": "jcomic",
     "name": "jcomic.net",
     "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/jcomic.js",
     "version": "1.0.0"
   },
   {
+    "key": "hot_manga",
     "name": "热辣漫画",
     "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/hot_manga.js",
     "version": "1.0.0"
   },
   {
+    "key": "kavita",
     "name": "Kavita",
     "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/kavita.js",
     "version": "1.0.0"
   },
   {
+    "key": "happy",
     "name": "嗨皮漫画",
     "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/happy.js",
     "version": "1.0.0",
     "description": "中国大陆及日韩IP无法访问，遇到403可以尝试切换其他地区网络"
   },
   {
+    "key": "mycomic",
     "name": "MYCOMIC",
     "url": "https://cdn.jsdelivr.net/gh/venera-app/venera-configs@main/mycomic.js",
     "version": "1.1.0",

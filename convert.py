@@ -26,7 +26,9 @@ def transform(sources):
             continue
             
         # 构建 Venera-Next 订阅列表要求的 JSON 结构
+        # key 为必填字段，须匹配 ^\w+$，缺失会导致条目被跳过
         new_src = {
+            "key": src.get("key", ""),
             "name": src.get("name", ""),
             "url": CDN_URL_TEMPLATE.format(filename),
             "version": src.get("version", "1.0.0")
